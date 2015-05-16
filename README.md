@@ -20,4 +20,4 @@ Integrantes de IndigoLabs:
 NOTAS: 
 
 -------------------------------------------
-***Abandonó la materia a mitad de semestre.
+**Abandonó la materia a mitad de semestre.
