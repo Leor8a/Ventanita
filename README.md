@@ -1,6 +1,4 @@
-# Ventanita
-
-Proyecto Ventanita Café
+# Proyecto Ventanita Café
 
 
 Integrantes de IndigoLabs:
