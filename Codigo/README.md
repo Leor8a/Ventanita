@@ -6,8 +6,7 @@ Favor de revisar que los archivos se encuentren:
 * Con buena sintaxis.
 * Revisar notación de clases, funciones y variables.
 * Se utilizará la notación de escritura lowerCamelCase para las clases.
-* Con respecto a los query's se llevara anexado a un documento, 
-* donde estará contenido cada query escrito; tanto en PHP como en la BD (MySQL).
+* Con respecto a los query's se anezará un documento, donde estará contenido cada query escrito; tanto en PHP como en la BD (MySQL). Esto es para ver posibles errores con las llamadas a la BD.  
 
 
 * Código bien identado.
