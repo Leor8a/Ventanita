@@ -18,4 +18,4 @@ Favor de revisar que los archivos se encuentren:
 ----------------------------------------------------------------------------------
 # Notas:
 
-* Github cuenta con control de versiones, y que está haciendo cada colaborador, quien no colabore se verá reflejado en la admin de este repositorio. Dependiendo de las colaboraciones se evaluará a cada compañero.
+* Github cuenta con control de versiones, y muestra que está haciendo cada colaborador, quien no colabore se verá reflejado en la admin de este repositorio. Dependiendo de las colaboraciones se evaluará a cada compañero.
