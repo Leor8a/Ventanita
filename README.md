@@ -40,4 +40,5 @@ NOTAS:
 
 -------------------------------------------
 **Abandonó la materia a mitad de semestre.
-***A finales de semestre
+
+*** A finales de semestre.
