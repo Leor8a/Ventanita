@@ -14,7 +14,7 @@ Integrantes de IndigoLabs:
   * Celis Ferreira Víctor Manuel
   * Morales Guerrero Irving **
   * Ochoa Ríos Luis Ernesto
-  * Pedroza Noyola Emmanuel
+  * Pedroza Noyola Emmanuel ***
   * Villagómez Chávez Luis Fernando
   
   
@@ -40,3 +40,4 @@ NOTAS:
 
 -------------------------------------------
 **Abandonó la materia a mitad de semestre.
+***A finales de semestre
