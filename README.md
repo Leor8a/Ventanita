@@ -10,12 +10,12 @@ Realizar un sistema de almacén en línea con varias herramientas que nos servir
 
 Integrantes de IndigoLabs:
 
-  * Austria López Brenda Itzel
-  * Celis Ferreira Víctor Manuel
+  * Austria López Brenda Itzel*
+  * Celis Ferreira Víctor Manuel*
   * Morales Guerrero Irving **
   * Ochoa Ríos Luis Ernesto
   * Pedroza Noyola Emmanuel ***
-  * Villagómez Chávez Luis Fernando
+  * Villagómez Chávez Luis Fernando*
   
   
 
@@ -43,6 +43,7 @@ NOTAS:
 -------------------------------------------
 **Abandonó la materia a mitad de semestre.
 
-*** Abandonó la nateria finales de semestre.
+*** Abandonó la Materia finales de semestre.
+*ABANDONARON LA PINCHE MATERIA.....
 
 
