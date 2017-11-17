@@ -44,6 +44,7 @@ NOTAS:
 **Abandonó la materia a mitad de semestre.
 
 *** Abandonó la Materia finales de semestre.
+
 *ABANDONARON LA PINCHE MATERIA.....
 
 
